@@ -1,0 +1,8 @@
+anytree
+beautifulsoup4
+matplotlib
+networkx
+networkx
+pandas
+pdfkit
+requests

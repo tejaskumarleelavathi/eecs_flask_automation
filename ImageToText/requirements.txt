@@ -1,0 +1,14 @@
+pytesseract
+pillow
+pymupdf
+reportlab
+pdf2image
+pandas
+logger
+requests
+bs4
+networkx
+matplotlib
+anytree
+beautifulsoup4
+pdfkit
